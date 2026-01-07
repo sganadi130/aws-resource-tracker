@@ -1,2 +1,2 @@
 # aws-resource-tracker
-Project for tracking the Aws Resources
+Shell scripting Project for tracking the Aws Resources
